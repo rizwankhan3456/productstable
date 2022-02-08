@@ -1,0 +1,28 @@
+#pid {
+  margin-left: 34px;
+  padding: 5px;
+  margin-top: 30px;
+  display: inline-block;
+}
+#pname {
+  margin-left: 7px;
+
+  padding: 5px;
+  display: inline-block;
+}
+
+#pprice {
+  margin-left: 7px;
+  padding: 5px;
+  display: inline-block;
+}
+
+#inp {
+  padding: 5px;
+  margin-top: 3px;
+}
+
+form,
+label {
+  display: block;
+}
